@@ -1,0 +1,17 @@
+{
+  "Name": "Song Familiarity",
+  "Authors": [
+    "Jared R. Girard",
+    "Aaron M. Bishop",
+    "Cameron D. Hassall"
+  ],
+  "License": "CC0",
+  "DatasetDOI": "",
+  "ReferencesAndLinks": [""],
+  "BIDSVersion": "1.8.0",
+  "HEDVersion": "8.1.0",
+  "GeneratedBy":[ {
+    "Name": "bids-matlab-tools",
+    "Version": "9.0"
+  }]
+}
